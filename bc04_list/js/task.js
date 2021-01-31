@@ -1,3 +1,3 @@
-function Task() {
-    this.taskName = 
+function Task(taskName) {
+    this.taskName = taskName;
 }
